@@ -1,0 +1,43 @@
+body{
+    background-color: darkgrey;
+    position: relative;
+}
+
+#container{
+    background-color: darkgray;
+    text-align: center;
+    margin: 50px 0px;
+}
+
+#mainTitle{
+    background-color: darkgrey;
+    width: 600px;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    margin: -40px 25px 0 25px;
+    color: white;
+
+}
+
+#mainBox{
+    background-color: darkgrey;
+    width: 650px;
+    height: 350px;
+    border: 5px solid rebeccapurple;
+    font-size: 50px;
+    margin: 200px auto;
+
+}
+
+
+#decimal_input {
+    border: 3px #999;
+    -webkit-appearance: none;
+    width: 50px;
+    height: 50px;
+}
+
+#roman_output{
+    font-size: 60px;
+}
