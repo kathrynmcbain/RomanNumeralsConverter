@@ -51,7 +51,8 @@ The app makes use of two different arrays. One containing arabic numbers (1,4,5 
       <td>IV</td>
       <td>I</td>
   </tr>
+  </table>
   
-  So now because we have the special cases, we can now make number like 44, because the computer now understands that 40 is a special case and so is 4, so we end up with XLIV.
+  So now because we have the special cases, we can now make number like 44, because the computer now understands that 40 is a special case and so is 4, so we end up with XLIV which is correct instead of XXXXIIII
   
   To be continued...
