@@ -1,7 +1,6 @@
 # RomanNumeralsConverter
-Simple web app that converts numbers into roman numerals using simple JS, CSS, HTML.
 
-Simple web app that converts numbers into roman numerals using simple JS, CSS, HTML.
+Simple web app that converts arabic numbers(1,2,3 etc) into roman numerals using simple JS, CSS, HTML.
 
 Roman numerals are easy enough to get your head around. Just a combination of I, V, X etc to make up any number. If you don't already understand how they are used, have a quick google and come back!
 
