@@ -28,7 +28,7 @@ The app makes use of two different arrays. One containing arabic numbers (1,4,5 
 
 <table>
   <tr>
-    <td>Numerals</td>
+    <td>Arabic</td>
       <td>100</td>
       <td>90</td>
       <td>50</td>
@@ -40,7 +40,7 @@ The app makes use of two different arrays. One containing arabic numbers (1,4,5 
       <td>1</td>
   </tr>
     <tr>
-    <td>Arabic</td>
+    <td>Numerals</td>
       <td>C</td>
       <td>XC</td>
       <td>L</td>
